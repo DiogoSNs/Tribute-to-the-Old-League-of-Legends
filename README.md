@@ -1,4 +1,4 @@
-# 🎮 **Tribute to the Old League of Legends Chest System** 🎮
+# 🎮 **Tribute to the Old League of Legends Chest System** 
 
 A nostalgic tribute to the old *League of Legends* loot chest system, a beloved feature that brought excitement and mystery to the game. 💎✨
 
